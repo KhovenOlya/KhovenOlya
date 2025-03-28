@@ -1,5 +1,5 @@
-## Khoven Olga
-### Frontend Developer from Moscow
+# Khoven Olga
+## Frontend Developer from Moscow
 
 ### Project 
 
