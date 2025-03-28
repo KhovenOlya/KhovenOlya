@@ -4,6 +4,6 @@
   <h2>Project</h2>
 </div>
 
-- #[Domen](https://pushart.online/)
-- #(Frontend code)(https://github.com/frontend-park-mail-ru/2024_2_TeamOn)
+- [Domen](https://pushart.online/)
+- [Frontend code](https://github.com/frontend-park-mail-ru/2024_2_TeamOn)
 
